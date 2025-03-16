@@ -14,7 +14,7 @@ library(RColorBrewer)
 
 #### Importo la base en que unifiqué RA para INGRESANTES y MATRÍCULA ####
 
-ingresantes_y_matricula_RA_total_grado <- read_excel("99 - Ingresantes y Matricula RA 2015-2023 - Egresados RA 2015-2022.xlsx", sheet = "Ingr y Matr RA 2015-2023")
+ingresantes_y_matricula_RA_total_grado <- read_excel("ELIMINADO PARA PRESERVAR INFORMACIÓN SENSIBLE")
 
 ## Le corro los procesamientos necesarios para poder trabajarla ##
 
